@@ -247,9 +247,7 @@
  margin: 0px;}
  
  #box9{
- background: url("images/zappos50.png");
- background-size: 100% 100%;
- background-position:center;
+ background-color: grey;
  background-repeat: no-repeat;
  padding: 20px;
  border: 1px solid black;
@@ -265,7 +263,7 @@
  }
  
  #box10{
- background-color: #247996;
+ background-color: black;
  background-repeat: no-repeat;
  padding: 20px;
  border: 1px solid black;
