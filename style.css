@@ -132,7 +132,7 @@
  background-attachment: fixed;
  background-position: center;
  background-color: white;
- background-size: 300px 670px;
+ background-size: 300px 630px;
  background-repeat: no-repeat;
  padding: 20px;
  border: 1px solid black;
@@ -169,6 +169,7 @@
  }
  
  .ims3{
+ list-style-type: square;
  text-align: left;
  font-family: verdana;
  font-size: 15px;
@@ -190,6 +191,7 @@
  }
  
  .ems3{
+ 
  text-align: right;
  font-family: verdana;
  font-size: 15px;
@@ -293,6 +295,18 @@
  font-size: 12px;
  text-align: center;
 
+ }
+ 
+ .proj{
+ list-style-type: square;
+ font-family: verdana;
+ font-size: 20px; color:#247996;
+ }
+ 
+  .proj1{
+ list-style-type: square;
+ font-family: verdana;
+ font-size: 20px; color:white;
  }
  
  #boxlast{
